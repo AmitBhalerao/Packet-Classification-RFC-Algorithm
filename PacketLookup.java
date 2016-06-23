@@ -1,6 +1,6 @@
 /**
 * ECE681 : RFC Algorithm Packet Classification
-* By Amit Bhalera0, ECE Department, NJIT.
+* By Amit Bhalerao, ECE Department, NJIT.
 * Decription : Packet lookup/classification Program : RFC algorithm implementation
 **/
 
